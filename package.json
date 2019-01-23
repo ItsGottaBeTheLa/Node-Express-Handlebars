@@ -1,0 +1,24 @@
+{
+  "name": "node-express-handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsGottaBeTheLa/Node-Express-Handlebars.git"
+  },
+  "author": "Damiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsGottaBeTheLa/Node-Express-Handlebars/issues"
+  },
+  "homepage": "https://github.com/ItsGottaBeTheLa/Node-Express-Handlebars#readme"
+}
